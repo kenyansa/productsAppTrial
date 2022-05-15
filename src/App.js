@@ -3,6 +3,8 @@ import './App.css';
 import React from "react";
 import ReactDOM from "react-dom";
 
+// create the needed components
+
 function ProductCategoryRow({category}){
   return (
     <tr>
