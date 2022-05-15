@@ -1,4 +1,4 @@
-const items = [
+const products = [
   {
     category: "Sporting Goods",
     price: "$49.99",
@@ -32,4 +32,4 @@ const items = [
   { category: "Electronics", price: "$199.99", stocked: true, name: "Nexus 7" },
 ];
 
-export { items };
+export { products };
